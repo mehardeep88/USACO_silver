@@ -1,3 +1,8 @@
+//LINK: http://www.usaco.org/index.php?page=viewproblem2&cpid=572
+/*
+USACO 2015 December Contest, Silver
+Problem 3. Breed Counting
+*/
 #include <bits/stdc++.h>
 using namespace std;
 main()
